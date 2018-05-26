@@ -20,6 +20,11 @@ To check if they are installed, run these commands in bash:
 ```bash
 python --version
 ```
+also check this (mainly for OSx)
+```bash
+python3 --version
+```
+If either of the above show the python version as being above 3.6, the that's fine.
 Then check the version
 ```bash
 pip --version
