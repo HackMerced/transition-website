@@ -55,6 +55,7 @@ python3 -m venv env
 source env/bin/activate
 ```
 you should see (env) pre-pended to the bash prompt. This verifies that you are in the virtual environment
+
 6. make sure you are at the root of the 'transition-website' directory, and install the dependencies
 ```bash
 pip install -r requirements.txt
