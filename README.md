@@ -13,8 +13,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-python version >= 3.6 -> install here:  https://www.python.org/downloads/
-pip package manager -> install here:    https://pip.pypa.io/en/stable/installing/ (note: pip may be installed along with python already)
+* python version >= 3.6 -> install here:  https://www.python.org/downloads/
+* pip package manager -> install here:    https://pip.pypa.io/en/stable/installing/ (note: pip may be installed along with python already)
 
 To check if they are installed, run these commands in bash:
 ```bash
