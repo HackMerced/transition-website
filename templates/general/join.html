@@ -1,0 +1,102 @@
+{% extends "layout.html" %}
+{% block body %}
+  <div class='join'>
+    <h1>Build HackMerced</h1>
+    <section>
+      <article>
+        <h4>We’re looking for people like you!</h4>
+          <br>
+        <p>
+          HackMerced is looking for a wide range of skilled engineers, designers, leaders, and creatives. This year, we created not just leadership roles, but also constructive and career-focused jobs for those with a strict schedule or the ambition to learn new skills.
+          <br>
+          We also have an FAQ for you below the job listings!
+        </p>
+      </article>
+      <article class='leadership-list'>
+        <h4>Join the HackMerced Team!</h4>
+        <br>
+        <p>Please review the roles below and follow the "Apply now" link to send us your application.</p>
+          <p>We are looking forward to hearing from you!  It's going to be an amazing event!</p>
+        <p>NOTE: We may be accepting more than one applicant for some positions, such as Software Engineering.</p>
+        <h5>Filter Role</h5>
+        <div id='filter-roles'></div>
+        <h5>Role Listings</h5>
+        <div id='role-listing'>
+          {% for job in jobs['jobs'] %}
+            <div class='role-container role--type-{{job.Division.replace(" ", "-")}}'>
+              <div class='role'>
+                <div class='role-left'>
+                  <div class='role-title'>
+                    {{ job.Role }}
+                  </div>
+                  <div class='role--lower'>
+                    <div class='role--lower-item role-type'>
+                      {{ job.Division }}
+                    </div>
+                    {% if job.Leadership == "Yes" %}
+                      <div class='role--lower-item'>
+                        Leadership
+                      </div>
+                    {% endif %}
+                  </div>
+                </div>
+                <button class='role--learn-more slim'>
+                  Learn More
+                </button>
+              </div>
+              <div class='role-details'>
+                <h5>Description</h5>
+                <div class='role-description'>
+                  {{ job.Description }}
+                </div>
+                <h5>What we look for:</h5>
+                {% for reqs in job.Requirements %}
+                  <li> {{ reqs }} </li>
+                {% endfor %}
+                <h5>Things that aren't required but will help your application:</h5>
+                {% for opts in job.Optional %}
+                  <li> {{ opts }} </li>
+                {% endfor %}
+                <a target='_blank' class='disable-hover' href='https://docs.google.com/forms/d/e/1FAIpQLSe7WG24hMWQvsqNpeiEkJW78d3OjRsg0VO4Toxd4Y-I3RRzRw/viewform?usp=pp_url&entry.2139628244={{job.Role}}&entry.1781500597&entry.1640447617&entry.297979220&entry.2040870261'>
+                  <button>Apply now</button>
+                </a>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </article>
+      <article>
+        <h4>FAQ</h4>
+        <h5>Are these positions paid?</h5>
+        <p>
+          No, we are solely a school organization that is run entirely by volunteers.
+        </p>
+        <h5>Why should I contribute?</h5>
+        <p>
+          If you have a strong desire to help the Merced community as well as gain experience working in a professional environment, we recommend working with us!
+        </p>
+        <h5>Do I need to be a programmer?</h5>
+        <p>
+          No, most of our roles are actually non-programming positions that are open to a wide skill-set of students, including Finance, Administration, Product Management, and Human Resources.
+        </p>
+        <h5>Is it hard to get in?</h5>
+        <p>
+          No, we are very accepting to all ranges of skill level and offer a variety of positions to accomodate all.
+        </p>
+        <h5>Do I need to work a lot?</h5>
+        <p>
+          We believe that as long as you have the desire and drive to make HackMerced amazing, you won't even notice how much you work! That being said, HackMerced is not usually a low-commitment position, and since we want to train you for real life employment we will try to engage you for at least 3-7 hours a week.
+        </p>
+        <h5>Can I still participate in HackMerced if I work here?</h5>
+        <p>
+          Yes, as long as you are not a Director.
+        </p>
+        <h5>What happened to the students last year?</h5>
+        <p>
+          In the last two years, we've worked with a small cohort of students that have excelled tremendously both in school and in real life. They have taken what they've learned in leading HackMerced to positions and offers at companies including: Google, Pandora, PayPal, Sony, Lockheed Martin, Goldman Sachs, Qualcomm, Esri, and much much more!
+        </p>
+      </article>
+
+    </section>
+  </div>
+{% endblock %}
