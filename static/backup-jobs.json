@@ -1,0 +1,435 @@
+{
+    "jobs": [
+        {
+            "Role": "Graphic Designer",
+            "Division": "Design",
+            "Leadership": "No",
+            "Description": "HackMerced's Graphic Designer will use their creative skills to make graphics for things such as HackMerced stickers, T-Shirts, and logos.  Will also work with the marketing team.",
+            "Requirements": [
+                "Self-guided and self-motivated",
+                "Excellent design skills"
+            ],
+            "Optional": [
+                "Portfolio of past designs",
+                "Adobe Illustrator, Photoshop, etc"
+            ]
+        },
+        {
+            "Role": "UI/UX Designer",
+            "Division": "Design",
+            "Leadership": "No",
+            "Description": "HackMerced's UI/UX Designer will use their creative skills to make graphics and mock ups for an elegant website design.",
+            "Requirements": [
+                "Self-guided and self-motivated",
+                "Excellent design skills"
+            ],
+            "Optional": [
+                "Portfolio of past designs",
+                "Adobe Illustrator, Photoshop, Sketch, etc"
+            ]
+        },
+        {
+            "Role": "Hardware Engineer",
+            "Division": "Engineering",
+            "Leadership": "No",
+            "Description": "The Hardware Engineer will be in charge of developing and implementing systems for HackMerced that will relate to hardware.  In addition, the hardware engineering team can setup an awesome hardware-related workshop for the hackathon.",
+            "Requirements": [
+                "Ability to teach/guide others",
+                "Excellent hardware skills"
+            ],
+            "Optional": [
+                "Experience in Hardware"
+            ]
+        },
+        {
+            "Role": "Director of Logistics",
+            "Division": "Events",
+            "Leadership": "Yes",
+            "Description": "The logistics director will work with various departments within HackMerced to book venues, develop and run schedules, and order services and supplies ",
+            "Requirements": [
+                "Self-guided and self-motivator",
+                "Excellent speaker, writer",
+                "Experienced with Excel/Google spreadsheets"
+            ],
+            "Optional": [
+                "Experience in talking with OSL",
+                "Experience in event planning outside UC Merced"
+            ]
+        },
+        {
+            "Role": "Co-Director of Logistics",
+            "Division": "Events",
+            "Leadership": "Yes",
+            "Description": "The logistics co-director will work along-side the logistics director to coordinate, plan and create events at UC Merced and the Merced community.",
+            "Requirements": [
+                "Experience in throwing events at UC Merced",
+                "Self-guided and self-motivator",
+                "Excellent speaker, writer",
+                "Can envision themselves being a director for the following year",
+                "Experienced with Excel/Google spreadsheets"
+            ],
+            "Optional": [
+                "Experience in talking with OSL",
+                "Experience in using room reservation software",
+                "Experience in event planning outside UC Merced"
+            ]
+        },
+        {
+            "Role": "Director of Finance",
+            "Division": "Finance",
+            "Leadership": "Yes",
+            "Description": "The director of finance will help secure sponsorships, makes sure vendors get paid, and manage the cash flow and budget",
+            "Requirements": [
+                "Manages budget and controls expenses effectively.",
+                "Ethical Conduct",
+                "Strategic Thinking",
+                "Experienced with Excel/Google spreadsheets"
+            ],
+            "Optional": [
+                "Worked in a financial-related position before",
+                "Good social skills",
+                "Solid math background"
+            ]
+        },
+        {
+            "Role": "Co-Director of Finance",
+            "Division": "Finance",
+            "Leadership": "Yes",
+            "Description": "Will work along-side the Director of Finance.",
+            "Requirements": [
+                "Manages budget and controls expenses effectively.",
+                "Ethical Conduct",
+                "Strategic Thinking"
+            ],
+            "Optional": [
+                "Can envision themselves being a director for the following year",
+                "Worked in a financial-related position before"
+            ]
+        },
+        {
+            "Role": "Director of Marketing",
+            "Division": "Marketing",
+            "Leadership": "Yes",
+            "Description": "The Director of Marketing will be planning and coordinating marketing campaigns for HackMerced, that can include emails, social media posts, blogs, and video. They also work with the Student Event Manager to build and create non-primary Hackathon events.",
+            "Requirements": [
+                "Experience in leading a team",
+                "Proficient and independent in drafting up e-mails",
+                "Excellent speaking and writing skills "
+            ],
+            "Optional": [
+                "Has a blog, medium, or publishes content online ",
+                "Has done social media management in the past",
+                "Has written email campaigns"
+            ]
+        },
+        {
+            "Role": "Co-Director of Marketing",
+            "Division": "Marketing",
+            "Leadership": "Yes",
+            "Description": "The Co-Director of Marketing will work alongside with the Director of Marketing.",
+            "Requirements": [
+                "Experience in leading a team",
+                "Excellent speaking and writing skills",
+                "Preferably Junior Standing or below"
+            ],
+            "Optional": [
+                "Can envision themselves being a director for the following year",
+                "Has a blog, medium, or publishes content online ",
+                "Has done social media management in the past",
+                "Has written email campaigns"
+            ]
+        },
+        {
+            "Role": "Software Engineer, Full Stack",
+            "Division": "Engineering",
+            "Leadership": "No",
+            "Description": "HackMerced’s full stack software engineering position will allow you stretch your skills in full-stack development to build out and maintain HackMerced’s core platform including products such as our website, Tomoe, Helix, and Core to their greatest potential in Facebook’s React MVC framework and Node.js as a web server.  You will use your ninja skills to work with the front-end and back-end engineers :)",
+            "Requirements": [
+                "Self-guided and self-motivated",
+                "Proficiency in one of the following: Javascript, C/C++, Java, Python/Django, Ruby/Ruby on Rails",
+                "Experience in MVC ecosystems (React, Angular, Vue)",
+                "Willing to learn and work on a team"
+            ],
+            "Optional": [
+                "Open source contributor",
+                "Proficiency in React.js",
+                "Experience with Node.js"
+            ]
+        },
+        {
+            "Role": "Junior Software Engineer, Full Stack",
+            "Division": "Engineering",
+            "Leadership": "No",
+            "Description": "HackMerced’s full stack software engineering position will allow you stretch your skills in full-stack development to build out and maintain HackMerced’s core platform including products such as our website, Tomoe, Helix, and Core to their greatest potential in Facebook’s React MVC framework and Node.js as a web server.  You will use your ninja skills to work with the front-end and back-end engineers. You will also be paired with a software engineer as your mentor :)",
+            "Requirements": [
+               "Self-guided and self-motivated",
+                "Proficiency in one of the following: Javascript, C/C++, Java, Python/Django, Ruby/Ruby on Rails",
+                "Willing to learn and work on a team"
+            ],
+            "Optional": [
+                "Open source contributor",
+                "Proficiency in React.js",
+                "Experience with Node.js"
+            ]
+        },
+        {
+            "Role": "Product Manager, Front End",
+            "Division": "Engineering",
+            "Leadership": "Yes",
+            "Description": "The Product Manager, Front End is perfect for students interested in Product Management roles in the future, they will work with a team of front-end software engineers to create HackMerced's website, admission tools, and other projects to build out the service HackMerced provides to students. They will work primarily on HackMerced's main platform, dealing with their front-end React website. They will be handling project deadlines, project vision and goals.",
+            "Requirements": [
+                "Self-guided and self-motivated",
+                "Proficiency in one of the following: Javascript, C/C++, Java",
+                "Experience in MVC ecosystems (React, Angular, Vue)",
+                "Willing to learn and work on a team"
+            ],
+            "Optional": [
+                "Open source contributor",
+                "Proficiency in HTML and CSS",
+                "Proficiency in React.js"
+            ]
+        },
+        {
+            "Role": "Software Engineer, Front End",
+            "Division": "Engineering",
+            "Leadership": "No",
+            "Description": "HackMerced’s front end software engineering position will allow you stretch your skills in Front End development to build out and maintain HackMerced’s core platform including products such as our website, Tomoe, Helix, and Core to their greatest potential in Facebook’s React MVC framework.  You will be working in a team of 1-3 front-end engineers along with the back-end and full stack team :)",
+            "Requirements": [
+                "Self-guided and self-motivated",
+                "Proficiency in one of the following: Javascript, C/C++, Java",
+                "Experience in MVC ecosystems (React, Angular, Vue)",
+                "Willing to learn and work on a team"
+            ],
+            "Optional": [
+                "Open source contributor",
+                "Proficiency in HTML and CSS",
+                "Proficiency in React.js"
+            ]
+        },
+        {
+            "Role": "Junior Software Engineer, Front End",
+            "Division": "Engineering",
+            "Leadership": "No",
+            "Description": "HackMerced’s front end software engineering position will allow you stretch your skills in Front End development to build out and maintain HackMerced’s core platform including products such as our website to their greatest potential in Facebook’s React MVC framework.  You will be working in a team of 1-3 front end engineers (approximately) along with the back end and full stack team ᕦ( ͡° ͜ʖ ͡°)ᕤ",
+            "Requirements": [
+                "Self-guided and self-motivated",
+                "Proficiency in programming",
+                "Willing to learn and work on a team"
+            ],
+            "Optional": [
+                "Open source contributor",
+                "Proficiency in one of the following: Javascript, HTML, CSS",
+                "Proficiency in React"
+            ]
+        },
+        {
+            "Role": "Product Manager, Back End",
+            "Division": "Engineering",
+            "Leadership": "Yes",
+            "Description": "The Product Manager, Back End is perfect for students interested in Product Management roles in the future, they will work with a team of back-end software engineers to create HackMerced's website, admission tools, and other projects to build out the service HackMerced provides to students. They will work primarily on HackMerced's main platform, dealing with the backend in Node.js. They will be handling project deadlines, project vision and goals.",
+            "Requirements": [
+                "Self-guided and self-motivated",
+                "Proficiency in one of the following: Javascript, Python/Flask/Django, Ruby/Ruby on Rails, PHP",
+                "Experience in back end server-side development",
+                "Willing to learn and work on a team"
+            ],
+            "Optional": [
+                "Open source contributor",
+                "Experience in Node.js"
+            ]
+        },
+        {
+            "Role": "Software Engineer, Back End",
+            "Division": "Engineering",
+            "Leadership": "No",
+            "Description": "HackMerced’s back end software engineering position will allow you stretch your skills in Back End development to build out and maintain HackMerced’s core platform including products such as our website, Tomoe, Helix, and Core to their greatest potential in Node.js as a web server.  You will be working in a team of 1-3 back-end engineers along with the front-end and full stack team :)",
+            "Requirements": [
+                "Self-guided and self-motivated",
+                "Proficiency in one of the following: Javascript, Python/Flask/Django, Ruby/Ruby on Rails, PHP",
+                "Experience in back end server-side development",
+                "Willing to learn and work on a team"
+            ],
+            "Optional": [
+                "Open source contributor",
+                "Experience in Node.js"
+            ]
+        },
+        {
+            "Role": "Junior Software Engineer, Back End",
+            "Division": "Engineering",
+            "Leadership": "No",
+            "Description": "HackMerced’s back end software engineering position will allow you stretch your skills in Back End development to build out and maintain HackMerced’s core platform including products such as our website, Tomoe, Helix, and Core to their greatest potential in Node.js as a web server.  You will be working in a team of 1-3 back-end engineers along with the front-end and full stack team :)",
+            "Requirements": [
+                "Self-guided and self-motivated",
+                "Proficiency in one of the following: Javascript, Python/Flask/Django, Ruby/Ruby on Rails, PHP",
+                "Willing to learn and work on a team"
+            ],
+            "Optional": [
+                "Open source contributor",
+                "Experience in Node.js"
+            ]
+        },
+        {
+            "Role": "Digital Media Strategist",
+            "Division": "Marketing",
+            "Leadership": "No",
+            "Description": "HackMerced’s Digital Media Strategist works to produce easy to consume and informative writing in the form of blog posts to promote HackMerced online. The Digital Media Strategist will work with the Community Relations Director to produce a captivating marketing strategy works that relate to technology and HackMerced.",
+            "Requirements": [
+                "Self-guided and self-motivated",
+                "Excellent writing skills",
+                "Blogger"
+            ],
+            "Optional": [
+                "Experience with Wordpress blog platform",
+                "Knowledge in principles of SEO",
+                "Has writing portfolio with published articles, social media marketing presence"
+            ]
+        },
+        {
+            "Role": "Email Content Strategist",
+            "Division": "Marketing",
+            "Leadership": "No",
+            "Description": "HackMerced’s Email Content Strategist works to produce emails for HackMerced that will inform students about HackMerced’s events and activities as well as works with the Digital Media Strategist to produce blog content.",
+            "Requirements": [
+                "Self-guided and self-motivated",
+                "Excellent writing skills"
+            ],
+            "Optional": [
+                "Experience with MailChimp",
+                "Blogger"
+            ]
+        },
+        {
+            "Role": "Social Media Specialist",
+            "Division": "Marketing",
+            "Leadership": "No",
+            "Description": "HackMerced’s Social Media Specialist works to manage the social media activity of HackMerced. They will work with the Marketing Director to make interesting and informative posts for HackMerced as well as communicate and interact with the HackMerced community online.",
+            "Requirements": [
+                "Self-guided and self-motivated",
+                "Excellent writing skills",
+                "Team leadership"
+            ],
+            "Optional": [
+                "Experience with TweetDeck",
+                "Experience with HootSuite",
+                "Experience with Facebook, Instagram, and Twitter",
+                "Blogger"
+            ]
+        },
+        {
+            "Role": "PR (Public Relations) Specialist",
+            "Division": "Marketing",
+            "Leadership": "No",
+            "Description": "HackMerced’s PR Specialist works with the Social Media Specialist and Director of Marketing to plan, create, and deploy efficient, entertaining, and informative marketing content to bring students to HackMerced.",
+            "Requirements": [
+                "Self-guided and self-motivated",
+                "Excellent writing skills",
+                "Team leadership"
+            ],
+            "Optional": [
+                "Experience with TweetDeck",
+                "Experience with Wordpress",
+                "Experience in MailChimp",
+                "Sociable"
+            ]
+        },
+        {
+            "Role": "Marketing Manager",
+            "Division": "Marketing",
+            "Leadership": "Yes",
+            "Description": "The Marketing Manager will use their knowledge of human relations to help secure sponsorships with companies. They will be emailing sponsors, providing them requested information, and will be working with the Marketing Director.",
+            "Requirements": [
+                "Self-guided and self-motivated",
+                "Excellent Writing and Communication skills",
+                "Responds to emails in a timely manner",
+                "Experienced in writing emails in a professional environment"
+            ],
+            "Optional": [
+                "Interested in a Marketing Career"
+            ]
+        },
+        {
+            "Role": "IT Support Specialist",
+            "Division": "Engineering",
+            "Leadership": "No",
+            "Description": "As the IT support specialist, you will be working during HackMerced events and activities to ensure HackMerced remains online. You will also be assisting fellow HackMerced workers set up safe and secure work environments and resolve internal technical issues.",
+            "Requirements": [
+                "None"
+            ],
+            "Optional": [
+                "Experience at UC Merced IT",
+                "Experience in Linux systems"
+            ]
+        },
+        {
+            "Role": "Volunteer Manager, Event",
+            "Division": "Events",
+            "Leadership": "Yes",
+            "Description": "As the Volunteer Manager you will have the responsibility of recruiting, managing and educating potential volunteers for HackMerced events.",
+            "Requirements": [
+                "Self-guided and self-motivator",
+                "Excellent speaker, writer",
+                "Leadership skills"
+            ],
+            "Optional": [
+                "Excellent skills in Microsoft Office products such as Excel and Word"
+            ]
+        },
+        {
+            "Role": "Student Event Manager",
+            "Division": "Events",
+            "Leadership": "Yes",
+            "Description": "The Student Event Manager will work to create, organize, and run non-Hackathon HackMerced events. They are self-guided with support from the director of HackMerced and from the logistics director to successfully hold events both during and outside the hackathon. They will work with our administration, Event Logistics, and Finance Teams to procure what they need to throw an event. These events range from workshops to tabling.",
+            "Requirements": [
+                "Self-guided and self-motivator",
+                "Excellent speaker, writer",
+                "Leadership skills",
+                "Experience in running and planning events"
+            ],
+            "Optional": [
+                "Experience in running event at UC Merced",
+                "Experience in working with OSL"
+            ]
+        },
+        {
+            "Role": "Student Liason Manager",
+            "Division": "Events",
+            "Leadership": "Yes",
+            "Description": "The Student Liaison Manager works with students from other schools to establish the HackMerced brand at their respective campuses. They will recruit students at those campuses to advertise the event for sign-ups. ",
+            "Requirements": [
+                "Students with connections to other universities, including student, staff and faculty",
+                "Self-guided and self-motivated"
+            ],
+            "Optional": [
+                "Experience in building and leading a team"
+            ]
+        },
+        {
+            "Role": "Financial Analyst",
+            "Division": "Finance",
+            "Leadership": "No",
+            "Description": "Reporting analyst at HackMerced will predict trends in spending and growth. Build budgets for events as well as locate areas to cut costs and research new ways to efficiently spend money.",
+            "Requirements": [
+                "Self-guided and self-motivator",
+                "Excellent speaker, writer",
+                "Leadership skills"
+            ],
+            "Optional": [
+                "Experience in budgeting Experience in working at a club at UCM as a Treasurer",
+                "Experience with Excel/Google Spreadsheets"
+            ]
+        },
+        {
+            "Role": "Other",
+            "Division": "Other",
+            "Leadership": "No",
+            "Description": "Don't know which position to apply for but still want to contribute to Hack Merced?  Apply to this 'other' position and we can work something out.",
+            "Requirements": [
+                "None"
+            ],
+            "Optional": [
+                "None"
+            ]
+        }
+    ]
+}
