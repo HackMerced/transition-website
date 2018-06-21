@@ -140,23 +140,6 @@
             ]
         },
         {
-            "Role": "Software Engineer, Full Stack",
-            "Division": "Engineering",
-            "Leadership": "No",
-            "Description": "HackMerced’s full stack software engineering position will allow you stretch your skills in full-stack development to build out and maintain HackMerced’s core platform including products such as our website, Tomoe, Helix, and Core to their greatest potential in Facebook’s React MVC framework and Node.js as a web server.  You will use your ninja skills to work with the front-end and back-end engineers :)",
-            "Requirements": [
-                "Self-guided and self-motivated",
-                "Proficiency in one of the following: Javascript, C/C++, Java, Python/Django, Ruby/Ruby on Rails",
-                "Experience in MVC ecosystems (React, Angular, Vue)",
-                "Willing to learn and work on a team"
-            ],
-            "Optional": [
-                "Open source contributor",
-                "Proficiency in React.js",
-                "Experience with Node.js"
-            ]
-        },
-        {
             "Role": "Junior Software Engineer, Full Stack",
             "Division": "Engineering",
             "Leadership": "No",
@@ -227,22 +210,6 @@
             "Division": "Engineering",
             "Leadership": "Yes",
             "Description": "The Product Manager, Back End is perfect for students interested in Product Management roles in the future, they will work with a team of back-end software engineers to create HackMerced's website, admission tools, and other projects to build out the service HackMerced provides to students. They will work primarily on HackMerced's main platform, dealing with the backend in Node.js. They will be handling project deadlines, project vision and goals.",
-            "Requirements": [
-                "Self-guided and self-motivated",
-                "Proficiency in one of the following: Javascript, Python/Flask/Django, Ruby/Ruby on Rails, PHP",
-                "Experience in back end server-side development",
-                "Willing to learn and work on a team"
-            ],
-            "Optional": [
-                "Open source contributor",
-                "Experience in Node.js"
-            ]
-        },
-        {
-            "Role": "Software Engineer, Back End",
-            "Division": "Engineering",
-            "Leadership": "No",
-            "Description": "HackMerced’s back end software engineering position will allow you stretch your skills in Back End development to build out and maintain HackMerced’s core platform including products such as our website, Tomoe, Helix, and Core to their greatest potential in Node.js as a web server.  You will be working in a team of 1-3 back-end engineers along with the front-end and full stack team :)",
             "Requirements": [
                 "Self-guided and self-motivated",
                 "Proficiency in one of the following: Javascript, Python/Flask/Django, Ruby/Ruby on Rails, PHP",
