@@ -13,7 +13,7 @@ filename = inspect.getframeinfo(inspect.currentframe()).filename
 os.chdir(os.path.dirname(os.path.abspath(filename)))
 path = os.path.abspath(os.curdir)
 
-WEBSITE_URL = 'https://hackmerced-transition.herokuapp.com'
+WEBSITE_URL = 'https://transition-website.herokuapp.com/'
 SECONDS_IN_29_MIN = 1740
 
 
