@@ -1,6 +1,5 @@
 {
-    "jobs": [
-        {
+    "jobs": [{
             "Role": "Graphic Designer",
             "Division": "Design",
             "Leadership": "No",
@@ -145,7 +144,7 @@
             "Leadership": "No",
             "Description": "HackMerced’s full stack software engineering position will allow you stretch your skills in full-stack development to build out and maintain HackMerced’s core platform including products such as our website, Tomoe, Helix, and Core to their greatest potential in Facebook’s React MVC framework and Node.js as a web server.  You will use your ninja skills to work with the front-end and back-end engineers. You will also be paired with a software engineer as your mentor :)",
             "Requirements": [
-               "Self-guided and self-motivated",
+                "Self-guided and self-motivated",
                 "Proficiency in one of the following: Javascript, C/C++, Java, Python/Django, Ruby/Ruby on Rails",
                 "Willing to learn and work on a team"
             ],
