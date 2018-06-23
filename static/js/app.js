@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
 "use strict";
 
 function injectImages(slider) {
-  var total_image_set = 6;
+  var total_image_set = 3;
 
   // inject images async
   function renderTemplate(state) {
