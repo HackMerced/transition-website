@@ -17,7 +17,7 @@ function injectImages(slider) {
     return "<div\n              class='image-element image-element-" + state + "'\n              style='background-image:url(https://s3-us-west-2.amazonaws.com/hackmerced-transition/" + state + ".JPG)'\n              ></div>";
   }
 
-  for (var i = 1; i <= total_image_set; i++) {
+  for (let i = 1; i <= total_image_set; i++) {
     slider.innerHTML += renderTemplate(i);
   }
 }

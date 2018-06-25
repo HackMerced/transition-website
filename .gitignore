@@ -1,6 +1,7 @@
 newrelic.ini
 .DS_Store
 .env
+env
 .flaskenv
 *.pyc
 *.pyo
