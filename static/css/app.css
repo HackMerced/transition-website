@@ -773,7 +773,7 @@ button.role-filter {
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 4;
+  z-index: 6;
   -webkit-animation: slideshow 16s linear 4s infinite;
   -moz-animation: slideshow 16s linear 4s infinite;
   -ms-animation: slideshow 16s linear 4s infinite;
@@ -785,7 +785,7 @@ button.role-filter {
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 3;
+  z-index: 5;
   -webkit-animation: slideshow 16s linear 8s infinite;
   -moz-animation: slideshow 16s linear 8s infinite;
   -ms-animation: slideshow 16s linear 8s infinite;
@@ -797,7 +797,7 @@ button.role-filter {
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 2;
+  z-index: 4;
   -webkit-animation: slideshow 16s linear 12s infinite;
   -moz-animation: slideshow 16s linear 12s infinite;
   -ms-animation: slideshow 16s linear 12s infinite;
@@ -809,12 +809,36 @@ button.role-filter {
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 1;
+  z-index: 3;
   -webkit-animation: slideshow 16s linear 16s infinite;
   -moz-animation: slideshow 16s linear 16s infinite;
   -ms-animation: slideshow 16s linear 16s infinite;
   -o-animation: slideshow 16s linear 16s infinite;
   animation: slideshow 16s linear 16s infinite;
+}
+
+.image-element-5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  -webkit-animation: slideshow 16s linear 20s infinite;
+  -moz-animation: slideshow 16s linear 20s infinite;
+  -ms-animation: slideshow 16s linear 20s infinite;
+  -o-animation: slideshow 16s linear 20s infinite;
+  animation: slideshow 16s linear 20s infinite;
+}
+
+.image-element-6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  -webkit-animation: slideshow 16s linear 24s infinite;
+  -moz-animation: slideshow 16s linear 24s infinite;
+  -ms-animation: slideshow 16s linear 24s infinite;
+  -o-animation: slideshow 16s linear 24s infinite;
+  animation: slideshow 16s linear 24s infinite;
 }
 
 @-webkit-keyframes slideshow {
