@@ -155,23 +155,6 @@
             ]
         },
         {
-            "Role": "Product Manager, Front End",
-            "Division": "Engineering",
-            "Leadership": "Yes",
-            "Description": "The Product Manager, Front End is perfect for students interested in Product Management roles in the future, they will work with a team of front-end software engineers to create HackMerced's website, admission tools, and other projects to build out the service HackMerced provides to students. They will work primarily on HackMerced's main platform, dealing with their front-end React website. They will be handling project deadlines, project vision and goals.",
-            "Requirements": [
-                "Self-guided and self-motivated",
-                "Proficiency in one of the following: Javascript, C/C++, Java",
-                "Experience in MVC ecosystems (React, Angular, Vue)",
-                "Willing to learn and work on a team"
-            ],
-            "Optional": [
-                "Open source contributor",
-                "Proficiency in HTML and CSS",
-                "Proficiency in React.js"
-            ]
-        },
-        {
             "Role": "Software Engineer, Front End",
             "Division": "Engineering",
             "Leadership": "No",
@@ -202,22 +185,6 @@
                 "Open source contributor",
                 "Proficiency in one of the following: Javascript, HTML, CSS",
                 "Proficiency in React"
-            ]
-        },
-        {
-            "Role": "Product Manager, Back End",
-            "Division": "Engineering",
-            "Leadership": "Yes",
-            "Description": "The Product Manager, Back End is perfect for students interested in Product Management roles in the future, they will work with a team of back-end software engineers to create HackMerced's website, admission tools, and other projects to build out the service HackMerced provides to students. They will work primarily on HackMerced's main platform, dealing with the backend in Node.js. They will be handling project deadlines, project vision and goals.",
-            "Requirements": [
-                "Self-guided and self-motivated",
-                "Proficiency in one of the following: Javascript, Python/Flask/Django, Ruby/Ruby on Rails, PHP",
-                "Experience in back end server-side development",
-                "Willing to learn and work on a team"
-            ],
-            "Optional": [
-                "Open source contributor",
-                "Experience in Node.js"
             ]
         },
         {
