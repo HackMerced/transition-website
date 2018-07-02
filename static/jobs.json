@@ -31,13 +31,14 @@
             "Role": "Hardware Engineer",
             "Division": "Engineering",
             "Leadership": "No",
-            "Description": "The Hardware Engineer will be in charge of developing and implementing systems for HackMerced that will relate to hardware.  In addition, the hardware engineering team can setup an awesome hardware-related workshop for the hackathon.",
+            "Description": "The Hardware Engineer will be in charge of developing and implementing workshops for the hackathon. Handling the hardware lab during our main event. Being a mentor for those who would like to take on any form of hardware as their project. Last but not least work hands on with a multitude of hardware projects after the big event.",
             "Requirements": [
                 "Ability to teach/guide others",
                 "Excellent hardware skills"
             ],
             "Optional": [
-                "Experience in Hardware"
+                "Experience in Hardware",
+                "Experience in programming: C/C++, Java, Python, MIPS"
             ]
         },
         {
@@ -71,6 +72,24 @@
                 "Experience in talking with OSL",
                 "Experience in using room reservation software",
                 "Experience in event planning outside UC Merced"
+            ]
+        },
+        {
+            "Role": "Product Manager, Full Stack",
+            "Division": "Engineering",
+            "Leadership": "Yes",
+            "Description": "The Product Manager, Front End is perfect for students interested in Product Management roles in the future, they will work with a team of front-end software engineers to create HackMerced's website, admission tools, and other projects to build out the service HackMerced provides to students. They will work primarily on HackMerced's main platform, dealing with their front-end React website. They will be handling project deadlines, project vision and goals.",
+            "Requirements": [
+                "Self-guided and self-motivated",
+                "Proficiency in one of the following: HTML, CSS, Javascript",
+                "Experience in MVC ecosystems (React, Angular, Vue)",
+                "Experience with Pre-Processors",
+                "Experience with MongoDB",
+                "Willing to learn and work on a team"
+            ],
+            "Optional": [
+                "Open source contributor",
+                "Experience as a manager"
             ]
         },
         {
