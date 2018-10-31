@@ -1,6 +1,5 @@
 {
-    "jobs": [
-        {
+    "jobs": [{
             "Role": "Graphic Designer",
             "Division": "Design",
             "Leadership": "No",
@@ -32,21 +31,21 @@
             "Role": "Hardware Engineer",
             "Division": "Engineering",
             "Leadership": "No",
-            "Description": "The Hardware Engineer will be in charge of developing and implementing systems for HackMerced that will relate to hardware.  In addition, the hardware engineering team can setup an awesome hardware-related workshop for the hackathon.",
+            "Description": "The Hardware Engineer will be in charge of developing and implementing workshops for the hackathon. Handling the hardware lab during our main event. Being a mentor for those who would like to take on any form of hardware as their project. Last but not least work hands on with a multitude of hardware projects after the big event.",
             "Requirements": [
-                "Self-guided and self-motivated",
-                "Excellent hardware skills",
-                "Team leadership"
+                "Ability to teach/guide others",
+                "Excellent hardware skills"
             ],
             "Optional": [
-                "Experience in Hardware"
+                "Experience in Hardware",
+                "Experience in programming: C/C++, Java, Python, MIPS"
             ]
         },
         {
             "Role": "Director of Logistics",
             "Division": "Events",
             "Leadership": "Yes",
-            "Description": "The logistics director will work with various departments within HackMerced to book venues, develop and run schedules, and order services and supplies ",
+            "Description": "The logistics director will work with various departments within HackMerced to book venues, develop and run schedules, and order services and supplies.",
             "Requirements": [
                 "Self-guided and self-motivator",
                 "Excellent speaker, writer",
@@ -76,10 +75,28 @@
             ]
         },
         {
+            "Role": "Product Manager, Full Stack",
+            "Division": "Engineering",
+            "Leadership": "Yes",
+            "Description": "The Product Manager, Front End is perfect for students interested in Product Management roles in the future, they will work with a team of front-end software engineers to create HackMerced's website, admission tools, and other projects to build out the service HackMerced provides to students. They will work primarily on HackMerced's main platform, dealing with their front-end React website. They will be handling project deadlines, project vision and goals.",
+            "Requirements": [
+                "Self-guided and self-motivated",
+                "Proficiency in one of the following: HTML, CSS, Javascript",
+                "Experience in MVC ecosystems (React, Angular, Vue)",
+                "Experience with Pre-Processors",
+                "Experience with MongoDB",
+                "Willing to learn and work on a team"
+            ],
+            "Optional": [
+                "Open source contributor",
+                "Experience as a manager"
+            ]
+        },
+        {
             "Role": "Director of Finance",
             "Division": "Finance",
             "Leadership": "Yes",
-            "Description": "The director of finance will help secure sponsorships, makes sure vendors get paid, and manage the cash flow and budget",
+            "Description": "The director of finance will help secure sponsorships, makes sure vendors get paid, and manage the cash flow and budget.",
             "Requirements": [
                 "Manages budget and controls expenses effectively.",
                 "Ethical Conduct",
@@ -258,11 +275,12 @@
             "Leadership": "No",
             "Description": "As the IT support specialist, you will be working during HackMerced events and activities to ensure HackMerced remains online. You will also be assisting fellow HackMerced workers set up safe and secure work environments and resolve internal technical issues.",
             "Requirements": [
-                "None"
+                "Dedication to securing an organization's infrastructure"
             ],
             "Optional": [
                 "Experience at UC Merced IT",
-                "Experience in Linux systems"
+                "Experience in Linux systems",
+                "Experience with Enterprise Level software configuration"
             ]
         },
         {

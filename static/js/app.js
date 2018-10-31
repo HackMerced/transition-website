@@ -10,11 +10,11 @@ document.addEventListener("DOMContentLoaded", function (event) {
 "use strict";
 
 function injectImages(slider) {
-  var total_image_set = 4;
+  var total_image_set = 6;
 
   // inject images async
   function renderTemplate(state) {
-    return "<div\n              class='image-element image-element-" + state + "'\n              style='background-image:url(https://s3-us-west-1.amazonaws.com/hackmerced/look_back_2017/" + state + ".png)'\n              ></div>";
+    return "<div\n              class='image-element image-element-" + state + "'\n              style='background-image:url(https://s3-us-west-2.amazonaws.com/hackmerced-transition/" + state + ".JPG)'\n              ></div>";
   }
 
   for (var i = 1; i <= total_image_set; i++) {
@@ -32,7 +32,7 @@ function imageSlider() {
   // setInterval(function(){
   //   state++;
   //   console.log(state);
-  //   slider.style['background-image'] = 'url(https://s3-us-west-1.amazonaws.com/hackmerced/look_back_2017/' + state + '.png)';
+  //   slider.style['background-image'] = 'url(https://s3-us-west-2.amazonaws.com/hackmerced-transition/' + state + '.JPG)';
   // }, 2500);
 }
 "use strict";
